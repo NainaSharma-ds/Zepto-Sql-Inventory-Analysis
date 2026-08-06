@@ -1,5 +1,4 @@
-# Zepto-Sql-Inventory-Analysis
-SQL Data Analysis Project using MySQL on Zepto Inventory Dataset
+
 # Zepto Inventory Data Analysis using MySQL
 
 ## Project Overview
